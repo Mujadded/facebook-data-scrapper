@@ -17,4 +17,5 @@ for now the data is only
 but you can modify to get more info
 
 
-##just for fun project
+## just for fun project
+Happy to accept contribution
